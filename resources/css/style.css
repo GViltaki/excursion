@@ -68,9 +68,14 @@ a{  color:inherit;
                 padding-top: 30px;
                 padding-bottom: 50px;
                 }
-                .link:hover{
+                .link-2:hover{
                     /* text-decoration: underline; */
                     font-size: 18.5px;
                     transition: 0.3s;
                     }
             
+        .footer-note{
+            text-align:right;
+            color: grey;
+            padding:20px;
+        }
