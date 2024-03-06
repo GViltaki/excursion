@@ -1,1 +1,35 @@
 
+*{  padding :0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+
+a{  color:inherit;
+    text-decoration: inherit;
+    }
+
+    body{
+        background-color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+
+        h1{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: normal;
+            font-size: 50px;
+            color: white;
+            text-align: center;
+            padding-top: 20px;
+            }
+
+            .firstlink{
+                color: aquamarine;
+                font-size: 18px;
+                text-align: center;
+                padding-top: 35px;
+                }
+                .firstlink:hover{
+                    /* text-decoration: underline; */
+                    font-size: 18.5px;
+                    transition: 0.3s;
+                    }
