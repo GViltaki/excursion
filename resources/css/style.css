@@ -22,12 +22,12 @@ a{  color:inherit;
             padding-top: 20px;
             }
 
-            .firstlink{
+            .link{
                 color: aquamarine;
                 font-size: 18px;
                 padding-top: 35px;
                 }
-                .firstlink:hover{
+                .link:hover{
                     /* text-decoration: underline; */
                     font-size: 18.5px;
                     transition: 0.3s;
@@ -54,3 +54,23 @@ a{  color:inherit;
         .phone-icon{
             padding-top: 20px;
         }
+
+        .header-3{
+            color: white;
+            font-weight: 300;
+            font-size: 42px;
+            padding-top: 20px;
+            }
+
+            .link-2{
+                color: aquamarine;
+                font-size: 18px;
+                padding-top: 30px;
+                padding-bottom: 50px;
+                }
+                .link:hover{
+                    /* text-decoration: underline; */
+                    font-size: 18.5px;
+                    transition: 0.3s;
+                    }
+            
